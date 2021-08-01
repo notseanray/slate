@@ -1,0 +1,14 @@
+{
+    "token": "",
+    "host": "",
+    "smp_rcon_port": "",                              
+    "cmp_rcon_port": "",
+    "mirror_rcon_port": "",
+    "rcon_password": "",
+    "chat_bridge_id": "",
+    "servers_path": "",
+    "smp_folder": "",
+    "cmp_folder": "",
+    "mirror_folder": "",
+    "discord_status": ""   
+}
